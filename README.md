@@ -1,15 +1,15 @@
 # Распознай испанский текст с изображения!
 
-Web-приложение для распознавания текста на японском языке с изображения.
-Используются библиотеки:
+Web-приложение для распознавания текста на испанском языке с изображения.  
+Используются библиотеки:  
 
-- [Streamlit](https://streamlit.io/)
-- [Transformers]( https://huggingface.co/)
-- [Torchvision](https://pytorch.org/vision/stable/index.html)
-- [Fugashi](https://pypi.org/project/fugashi/)
+- Streamlit  
+- Transformers  
+- Torchvision  
+- EasyOCR
 
-Для распознавания изображений используется нейронная сеть [Manga OCR](https://huggingface.co/kha-white/manga-ocr-base). 
+Для распознавания изображений используется библиотека EasyOCR, способная работать с испанским языком.
 
-Подробности о модели на [GitHub](https://github.com/kha-white/manga-ocr).
+Подробности о модели на GitHub.  
 
-[Ссылка на развернутое приложение](https://yazolga-kanji-to-text-main-f0d9ge.streamlit.app/).
+Ссылка на развернутое приложение.
